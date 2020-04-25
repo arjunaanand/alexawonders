@@ -1,6 +1,3 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/arjunaanand/arjunaanand.github.io.git
-[submodule "indigo"]
-	path = indigo
-	url = git://github.com/AngeloStavrow/indigo
